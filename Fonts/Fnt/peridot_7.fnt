@@ -1,0 +1,105 @@
+--metrics={"baseline":5,"xHeight":0,"capHeight":0,"pairs":{},"left":[],"right":[]}
+datalen=1708
+data=iVBORw0KGgoAAAANSUhEUgAAAEYAAABQCAYAAACkoQMCAAAAAXNSR0IArs4c6QAABLlJREFUeF7tW9Fy2zAMW/7/o7PLVvVoGSBAym6dnPuSayRRJEgRsNw+/vz/eX59Pr4+48drDH2frcvsZbbHujFn3pfZ7a6jMbw2HoGjTV3AGHjo+/jdPK6SwBKkwB7rsv02YwOYl+EIklsxA3E3szFDqCpi5pnN4Sso7u8kz2MqwTtfZjBUhtGGWRazCmCgjj3s7IZ2oFqBXZGxxFgmsmMSgYpOHdFjWJBVP50eurPpnFlUsh//3Q0MSfENTBMYp1kpqq409CgdMu2kmqxLEjQ+VTFdYGbBNTe3jJarbNWZL+XICjCqAbPsK8ZyWTDTMzLwMAHup4BRwbNxVTGMQrsVmvnZ0lIKGGXUcQgJNaR645FQVaP8Pr3HdCtGrVsBXNk+ZLyK/CGbvoORG5hEx2TXAL+V3DOOWsnmykPkmaBVROHww2E01JQhEcT7GDRBCTGHrqvHtZRZIzste1ermFYQC+DQxDsXVY5WMXz7ntIp+ahxsipduTTb2K2WeUVqV8BanXt4pa0AsxrMpdffwJg6Bk3LnoY7Y4rpmM1sXXds9K4dI7P3LUgboIdBtj4TjWePIa1SvfTavGFUbPHacH4TEHVQZQyKqvDyj1VulojZv5jcbAzGoCqmS9XxOPx0pXUrZuPnrGOqGiHrByq71Qx3+4iichjDzUoJK11aT/yWc3fFmDqmcj9LNcDELlnzRY1y9J757Kt7o47+iTFsisR5iFTNCz3gjTVorZIF0acZjAgakgeZL6UxdR+DjCmNkVWSsjcDiqoEVcbhonGlYo5wRmkOtkdVGylBuatiBUymHej5NHqMclQ9krAjirSRagXw2N+sdOuYmiK6K0boGHbmlVZxekW1Ua7ScEWLMe2z+xPWihjLqPcoxmL+VMBGjTz77t+YYqWMec4EpioQs/mun5tDNQu86usHRoVOxWSqmAVaBcwVlLtOoyrG0THZtaHTg5jIU8dajcfjkvmBtA/954kat33g7Juub4FXK2t150t5/msb9RyCvOmsUU3UjdreWwHjUJ29mQkma/gOEcBGGv5RDY1Du87rk2rgTvZWaB4lK/PRkQ47m0x+x+DOAIaB1wpi8UUdPDUKGNVjnOqozrnUUao6//Hzz9IxMeusIV4a3LOAuXTQjnMOKzmNkj3vVNe67OLEtjTH1THoIUzpio5jXWCyo6v8hAQD/zYkRHQGfXZFowMaupZoxaAqpmVU6AoFTKZesyuO7A0maxk0PgXMCIJJaWdDdKSU8kXjTsWMvVjAzO4uvgorHamAj7TV6WVyjQJGNS65AZhweVDeUnh1MtFZoyqmY1OteZuKUccle6jLmrd6GERJWWXB0+h6zqZyNKPWFdpFlK58YXTdYlbn9UmXkplDLu2yJGWUG4+xulKZqX1j13nhpo4S0ynoMQLpjHl9drQdUDNA7Sp2BJ4TjGq47zAOK8Zhp7dgk2IGaHU6gBT3+ozpDjAD1XmuOu+ZgES0eilE5+aLglEPfCwgtQ6OP5/PWN7/bD8eDyeBhwKrKI1VC9IZjF1KQb2AiUDMvx8afWLMudpUma9WTBrblYCZSxf1ksoRy5SmTPiVgJHO/uSEK/aYn4z/8nuVGuPloznQwb/SelBv0W6ASwAAAABJRU5ErkJggg==
+width=7
+height=8
+
+tracking=1
+
+0	4
+1	2
+2	4
+3	3
+4	4
+5	4
+6	4
+7	4
+8	4
+9	4
+space	3
+!	1
+"	3
+#	5
+$	4
+%	3
+&	5
+'	2
+(	2
+)	2
+*	4
++	3
+,	2
+-	3
+.	1
+/	3
+:	1
+;	2
+<	3
+=	3
+>	3
+?	4
+@	4
+A	4
+B	4
+C	4
+D	4
+E	3
+F	3
+G	4
+H	4
+I	3
+J	4
+K	4
+L	3
+M	5
+N	4
+O	4
+P	4
+Q	4
+R	4
+S	4
+T	3
+U	4
+V	4
+W	5
+X	5
+Y	4
+Z	3
+[	2
+\	3
+]	2
+^	3
+_	4
+`	2
+a	4
+b	4
+c	3
+d	4
+e	4
+f	2
+g	4
+h	4
+i	1
+j	2
+k	3
+l	1
+m	5
+n	4
+o	4
+p	4
+q	4
+r	3
+s	4
+t	2
+u	4
+v	4
+w	5
+x	4
+y	4
+z	4
+{	3
+|	1
+}	3
+~	4
+�	7
+
