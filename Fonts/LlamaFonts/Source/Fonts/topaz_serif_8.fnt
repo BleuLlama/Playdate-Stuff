@@ -1,0 +1,105 @@
+--metrics={"baseline":7,"xHeight":0,"capHeight":0,"pairs":{},"left":[],"right":[]}
+datalen=2352
+data=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
+width=8
+height=9
+
+tracking=1
+
+0	6
+1	6
+2	6
+3	6
+4	7
+5	6
+6	6
+7	6
+8	6
+9	6
+space	5
+!	4
+"	5
+#	7
+$	6
+%	7
+&	7
+'	3
+(	4
+)	4
+*	8
++	6
+,	3
+-	6
+.	2
+/	8
+:	2
+;	3
+<	5
+=	6
+>	5
+?	6
+@	7
+A	8
+B	7
+C	7
+D	7
+E	7
+F	7
+G	7
+H	6
+I	6
+J	6
+K	7
+L	7
+M	7
+N	7
+O	7
+P	7
+Q	7
+R	8
+S	6
+T	6
+U	6
+V	8
+W	7
+X	8
+Y	8
+Z	7
+[	4
+\	8
+]	4
+^	7
+_	7
+`	3
+a	7
+b	7
+c	6
+d	7
+e	6
+f	6
+g	8
+h	7
+i	4
+j	6
+k	7
+l	4
+m	7
+n	6
+o	6
+p	7
+q	7
+r	7
+s	6
+t	5
+u	7
+v	6
+w	7
+x	7
+y	6
+z	6
+{	6
+|	2
+}	6
+~	7
+�	8
+

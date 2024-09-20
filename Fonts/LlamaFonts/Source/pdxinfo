@@ -1,0 +1,7 @@
+name=LlamaFonts
+author=Scott Lawrence
+description=Browse through the fonts i've made available
+bundleID=com.umlautllama.LlamaFonts
+version=2.0
+buildNumber=22052800
+imagePath=SystemAssets
